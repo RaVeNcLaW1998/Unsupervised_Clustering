@@ -1,0 +1,125 @@
+2025-04-08 22:08:29,331:INFO:generated new fontManager
+2025-04-08 22:15:38,116:INFO:\U0001f4ca Streamlit app loaded
+2025-04-08 22:15:38,354:INFO:Cluster count selected: 5
+2025-04-08 22:15:38,376:INFO:Data loaded successfully.
+2025-04-08 22:15:38,397:INFO:Raw data loaded and displayed
+2025-04-08 22:15:38,399:INFO:Selected features for clustering.
+2025-04-08 22:15:38,403:INFO:Features scaled successfully.
+2025-04-08 22:15:38,591:ERROR:\u274c Error training KMeans model: [Errno 2] No such file or directory: 'models/kmeans_model.pkl'
+2025-04-08 22:15:38,591:ERROR:Model training failed: [Errno 2] No such file or directory: 'models/kmeans_model.pkl'
+2025-04-08 22:15:38,596:ERROR:Error generating cluster scatter plot: Could not interpret value `Cluster` for `hue`. An entry with this name does not appear in `data`.
+2025-04-08 22:15:38,620:INFO:WCSS scores calculated successfully.
+2025-04-08 22:15:38,653:INFO:Silhouette scores calculated successfully.
+2025-04-08 22:15:38,732:INFO:Elbow plot generated successfully.
+2025-04-08 22:15:38,749:INFO:Silhouette plot generated successfully.
+2025-04-08 22:15:38,752:INFO:Segmented customer data prepared for download
+2025-04-08 22:16:00,676:INFO:\U0001f4ca Streamlit app loaded
+2025-04-08 22:16:00,677:INFO:Cluster count selected: 5
+2025-04-08 22:16:00,680:INFO:Data loaded successfully.
+2025-04-08 22:16:00,682:INFO:Raw data loaded and displayed
+2025-04-08 22:16:00,683:INFO:Selected features for clustering.
+2025-04-08 22:16:00,685:INFO:Features scaled successfully.
+2025-04-08 22:16:00,691:ERROR:\u274c Error training KMeans model: [Errno 2] No such file or directory: 'models/kmeans_model.pkl'
+2025-04-08 22:16:00,691:ERROR:Model training failed: [Errno 2] No such file or directory: 'models/kmeans_model.pkl'
+2025-04-08 22:16:00,693:ERROR:Error generating cluster scatter plot: Could not interpret value `Cluster` for `hue`. An entry with this name does not appear in `data`.
+2025-04-08 22:16:00,721:INFO:WCSS scores calculated successfully.
+2025-04-08 22:16:00,758:INFO:Silhouette scores calculated successfully.
+2025-04-08 22:16:00,790:INFO:Elbow plot generated successfully.
+2025-04-08 22:16:00,813:INFO:Silhouette plot generated successfully.
+2025-04-08 22:16:00,815:INFO:Segmented customer data prepared for download
+2025-04-08 22:30:30,527:INFO:\U0001f4ca Streamlit app loaded
+2025-04-08 22:30:30,727:INFO:Cluster count selected: 5
+2025-04-08 22:30:30,730:INFO:Data loaded successfully.
+2025-04-08 22:30:30,734:INFO:Raw data loaded and displayed
+2025-04-08 22:30:30,735:INFO:Selected features for clustering.
+2025-04-08 22:30:30,736:INFO:Features scaled successfully.
+2025-04-08 22:30:30,908:ERROR:\u274c Error training KMeans model: [Errno 2] No such file or directory: 'models/kmeans_model.pkl'
+2025-04-08 22:30:30,909:ERROR:Model training failed: [Errno 2] No such file or directory: 'models/kmeans_model.pkl'
+2025-04-08 22:30:30,913:ERROR:Error generating cluster scatter plot: Could not interpret value `Cluster` for `hue`. An entry with this name does not appear in `data`.
+2025-04-08 22:30:30,937:INFO:WCSS scores calculated successfully.
+2025-04-08 22:30:30,969:INFO:Silhouette scores calculated successfully.
+2025-04-08 22:30:31,010:INFO:Elbow plot generated successfully.
+2025-04-08 22:30:31,027:INFO:Silhouette plot generated successfully.
+2025-04-08 22:30:31,031:INFO:Segmented customer data prepared for download
+2025-04-08 22:32:53,394:INFO:\U0001f4ca Streamlit app loaded
+2025-04-08 22:32:53,612:INFO:Cluster count selected: 5
+2025-04-08 22:32:53,615:INFO:Data loaded successfully.
+2025-04-08 22:32:53,620:INFO:Raw data loaded and displayed
+2025-04-08 22:32:53,621:INFO:Selected features for clustering.
+2025-04-08 22:32:53,622:INFO:Features scaled successfully.
+2025-04-08 22:32:53,623:INFO:Training KMeans on data shape: (200, 2) with 5 clusters
+2025-04-08 22:32:53,782:ERROR:\u274c Error training KMeans model: [Errno 2] No such file or directory: 'models/kmeans_model.pkl'
+2025-04-08 22:32:53,782:ERROR:Model training failed: [Errno 2] No such file or directory: 'models/kmeans_model.pkl'
+2025-04-08 22:32:53,786:ERROR:Error generating cluster scatter plot: Could not interpret value `Cluster` for `hue`. An entry with this name does not appear in `data`.
+2025-04-08 22:32:53,809:INFO:WCSS scores calculated successfully.
+2025-04-08 22:32:53,837:INFO:Silhouette scores calculated successfully.
+2025-04-08 22:32:53,883:INFO:Elbow plot generated successfully.
+2025-04-08 22:32:53,901:INFO:Silhouette plot generated successfully.
+2025-04-08 22:32:53,904:INFO:Segmented customer data prepared for download
+2025-04-08 22:36:15,470:INFO:\U0001f4ca Streamlit app loaded
+2025-04-08 22:36:15,674:INFO:Cluster count selected: 5
+2025-04-08 22:36:15,678:INFO:Data loaded successfully.
+2025-04-08 22:36:15,682:INFO:Raw data loaded and displayed
+2025-04-08 22:36:15,682:INFO:Selected features for clustering.
+2025-04-08 22:36:15,684:INFO:Features scaled successfully.
+2025-04-08 22:36:15,857:INFO:\u2705 KMeans model training complete and saved.
+2025-04-08 22:36:15,859:INFO:KMeans model trained and clusters assigned
+2025-04-08 22:36:15,907:INFO:Cluster scatter plot generated successfully.
+2025-04-08 22:36:15,930:INFO:WCSS scores calculated successfully.
+2025-04-08 22:36:15,957:INFO:Silhouette scores calculated successfully.
+2025-04-08 22:36:15,985:INFO:Elbow plot generated successfully.
+2025-04-08 22:36:16,003:INFO:Silhouette plot generated successfully.
+2025-04-08 22:36:16,006:INFO:Segmented customer data prepared for download
+2025-04-08 22:48:14,613:INFO:\U0001f4ca Streamlit app loaded
+2025-04-08 22:48:14,614:INFO:Cluster count selected: 5
+2025-04-08 22:48:14,616:INFO:Data loaded successfully.
+2025-04-08 22:48:14,618:INFO:Raw data loaded and displayed
+2025-04-08 22:48:14,619:INFO:Selected features for clustering.
+2025-04-08 22:48:14,621:INFO:Features scaled successfully.
+2025-04-08 22:48:14,626:INFO:\u2705 KMeans model training complete and saved.
+2025-04-08 22:48:14,627:INFO:KMeans model trained and clusters assigned
+2025-04-08 22:48:14,663:INFO:Cluster scatter plot generated successfully.
+2025-04-08 22:48:14,692:INFO:WCSS scores calculated successfully.
+2025-04-08 22:48:14,732:INFO:Silhouette scores calculated successfully.
+2025-04-08 22:48:14,749:INFO:Elbow plot generated successfully.
+2025-04-08 22:48:14,768:INFO:Silhouette plot generated successfully.
+2025-04-08 22:48:14,769:INFO:Segmented customer data prepared for download
+2025-04-08 23:03:17,754:INFO:\U0001f4ca Streamlit app loaded
+2025-04-08 23:03:17,755:INFO:Cluster count selected: 5
+2025-04-08 23:03:17,758:INFO:Data loaded successfully.
+2025-04-08 23:03:17,760:INFO:Raw data loaded and displayed
+2025-04-08 23:03:17,761:INFO:Selected features for clustering.
+2025-04-08 23:03:17,763:INFO:Features scaled successfully.
+2025-04-08 23:03:17,771:INFO:\u2705 KMeans model training complete and saved.
+2025-04-08 23:03:17,772:INFO:KMeans model trained and clusters assigned
+2025-04-08 23:03:17,811:INFO:Cluster scatter plot generated successfully.
+2025-04-08 23:03:17,844:INFO:WCSS scores calculated successfully.
+2025-04-08 23:03:17,886:INFO:Silhouette scores calculated successfully.
+2025-04-08 23:03:17,904:INFO:Elbow plot generated successfully.
+2025-04-08 23:03:17,924:INFO:Silhouette plot generated successfully.
+2025-04-08 23:03:17,926:INFO:Segmented customer data prepared for download
+2025-04-08 23:03:29,345:INFO:\U0001f4ca Streamlit app loaded
+2025-04-08 23:03:29,347:INFO:Cluster count selected: 5
+2025-04-08 23:03:29,350:INFO:Data loaded successfully.
+2025-04-08 23:03:29,352:INFO:Raw data loaded and displayed
+2025-04-08 23:03:29,353:INFO:Selected features for clustering.
+2025-04-08 23:03:29,354:INFO:Features scaled successfully.
+2025-04-08 23:03:29,361:INFO:\u2705 KMeans model training complete and saved.
+2025-04-08 23:03:29,362:INFO:KMeans model trained and clusters assigned
+2025-04-08 23:03:29,397:INFO:Cluster scatter plot generated successfully.
+2025-04-08 23:03:29,428:INFO:WCSS scores calculated successfully.
+2025-04-08 23:03:29,480:INFO:Silhouette scores calculated successfully.
+2025-04-08 23:03:29,500:INFO:Elbow plot generated successfully.
+2025-04-08 23:03:29,519:INFO:Silhouette plot generated successfully.
+2025-04-08 23:03:29,521:INFO:Segmented customer data prepared for download
+2025-04-08 23:06:12,642:INFO:\U0001f4ca Streamlit app loaded
+2025-04-08 23:06:12,870:INFO:Cluster count selected: 5
+2025-04-08 23:06:12,873:INFO:Data loaded successfully.
+2025-04-08 23:06:12,877:INFO:Raw data loaded and displayed
+2025-04-08 23:06:12,878:INFO:Selected features for clustering.
+2025-04-08 23:06:12,879:INFO:Features scaled successfully.
+2025-04-08 23:06:13,043:INFO:\u2705 KMeans model training complete and saved.
+2025-04-08 23:06:13,044:INFO:KMeans model trained and clusters assigned
+2025-04-08 23:06:13,293:INFO:WCSS scores calculated successfully.
+2025-04-08 23:06:13,329:INFO:Silhouette scores calculated successfully.
+2025-04-08 23:06:13,519:INFO:Segmented customer data prepared for download
