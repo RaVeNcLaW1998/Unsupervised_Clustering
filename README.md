@@ -1,36 +1,85 @@
+# 🧠 Mall Customer Segmentation using Unsupervised Learning
 
-# Unsupervised Clustering - Mall Customer Segmentation
+This Streamlit project performs customer segmentation for a shopping mall using **KMeans clustering**. It allows interactive exploration of customer data and visualization of clustering results.
 
-This project applies unsupervised machine learning to segment mall customers into groups using clustering techniques like KMeans.
+---
 
-## 🧠 Project Structure
+## 📂 Project Structure
 
-- **data/** - Raw, interim, processed, and external datasets.
-- **models/** - Trained models and predictions.
-- **notebooks/** - Jupyter Notebooks for exploration.
-- **Unsupervised_Clustering/** - Source code modules:
-  - `dataset.py` - Data loading and preparation.
-  - `features.py` - Feature engineering.
-  - `train.py` - Model training logic.
-  - `plots.py` - Data visualization and plotting.
+```
+Unsupervised_Clustering/
+│
+├── data/                   # Contains raw, processed datasets
+│   └── raw/
+│       └── mall_customers.csv
+│
+├── models/                 # Trained model artifacts (.pkl)
+│
+├── Unsupervised_Clustering/
+│   ├── dataset.py          # Loads and preprocesses data
+│   ├── features.py         # Feature selection and scaling
+│   ├── modeling/
+│   │   ├── train.py        # KMeans training and evaluation
+│   │   └── predict.py      # Load model and predict clusters
+│   ├── plots.py            # Visualizations
+│   └── config.py           # Logging config
+│
+├── app.py                  # Streamlit front-end
+├── requirements.txt        # Dependencies
+└── README.md               # You're reading it now
+```
 
-## 🚀 How to Run
+---
+
+## 🚀 How to Run the App
+
+1. ✅ Install required dependencies:
 
 ```bash
-# Install dependencies
 pip install -r requirements.txt
+```
 
-# Launch Streamlit app (to be created separately)
+2. ✅ Run the app:
+
+```bash
 streamlit run app.py
 ```
 
-## ✅ Requirements
-- pandas
-- numpy
-- matplotlib
-- seaborn
-- scikit-learn
-- streamlit
+3. 📊 Open the app in your browser at `http://localhost:8501`
 
-## 📄 License
-MIT License
+---
+
+## ⚙️ Features
+
+- 📥 Upload & load raw data (`mall_customers.csv`)
+- 🔍 Feature selection & scaling
+- 📈 KMeans clustering with interactive cluster count selection
+- 🎨 Visualizations:
+  - Cluster scatter plot
+  - Elbow plot (WSS)
+  - Silhouette score plot
+- 📤 Download segmented customer data with cluster labels
+
+---
+
+## 📦 Requirements
+
+```
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+streamlit
+joblib
+```
+
+---
+
+## 🧠 Authors
+
+Built with ❤️ by Athul Krishna Radhakrishnan Nair
+
+## Streamlit App
+
+https://unsupervisedclustering-x3juzpyzmodddkkaa3hu6w.streamlit.app/
